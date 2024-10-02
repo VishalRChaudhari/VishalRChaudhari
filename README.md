@@ -1,10 +1,10 @@
 ## Hi👋,  I'm Vishal Chaudhari
+ 
+○ 🔭 I’m currently working on Flutter Application Development<br>
 
-🔭 I’m currently working on Flutter Application Development<br>
+○ 📫 How to reach me: vishalchaudhari7800@gmail.com<br>
 
-📫 How to reach me: vishalchaudhari7800@gmail.com<br>
-
-💬 Ask me about android, flutter and enterprise mobility<br>
+○ 💬 Ask me about android, flutter and enterprise mobility<br>
 <!--
 **VishalRChaudhari/VishalRChaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
